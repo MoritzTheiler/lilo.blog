@@ -12,9 +12,7 @@ Die Situation der Insekten in der Schweiz ist beängstigend. In den letzten drei
 
 {{<lead>}}
 
-
-
-![](nmbe_simon_jaeggi-217050.jpg)
+![](dwfo5a72adfbppj8vicdtq.jpg.webp "Mitten in der Sonderausstellung der kleinen Tierchen in gross. (Quelle: Der Bund-Ausstellung über Insektensterben)")
 
 
 
