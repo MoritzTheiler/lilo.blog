@@ -1,9 +1,9 @@
 +++
 title = "\"Alles wird gut, auch bei den Insekten\""
-date = "2024-02-14"
+date = "2024-02-20"
 draft = false
 pinned = false
-image = "https://www.nmbe.ch/sites/default/files/styles/default_landscape__sizes_2560/public/NMBE_Simon_Jaeggi-217050.jpg?h=6f8e2d4a&itok=qODa827g"
+image = "nmbe_simon_jaeggi-217050.jpg"
 description = "\n"
 +++
 {{<lead>}}
