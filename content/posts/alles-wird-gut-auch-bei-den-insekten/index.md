@@ -12,7 +12,7 @@ Die Situation der Insekten in der Schweiz ist beängstigend. In den letzten drei
 
 {{<lead>}}
 
-![](dwfo5a72adfbppj8vicdtq.jpg.webp "Mitten in der Sonderausstellung der kleinen Tierchen in gross. (Quelle: Der Bund-Ausstellung über Insektensterben)")
+![Mitten in der Sonderausstellung der kleinen Tierchen in gross. (Quelle: Der Bund-Ausstellung über Insektensterben)](dwfo5a72adfbppj8vicdtq.jpg.webp "Mitten in der Sonderausstellung der kleinen Tierchen in gross. (Quelle: Der Bund-Ausstellung über Insektensterben)")
 
 
 
