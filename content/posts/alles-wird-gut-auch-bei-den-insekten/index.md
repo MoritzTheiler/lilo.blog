@@ -25,9 +25,7 @@ Im obersten Stockwerk des Museums sitzt Simon Jäggi auf dem schwarzen Ledersofa
 
 Es ist erschütternd und es macht traurig, wenn man sich mit den Zahlen, Fakten und Statistiken rund um das Aussterben der Insekten um uns herum beschäftigt. Manche macht es vielleicht wütend, dass wir so weitermachen wie immer und wahrscheinlich warten, bis es zu spät ist, bis wir wirklich alle fossilen Rohstoffe aufgebraucht haben und damit Luft, Bäume, Böden, unsere Lebensgrundlage und vor allem die Tierwelt zerstört haben. Doch vielen geht es wahrscheinlich wie dem Grossteil der Menschheit, die es bisher noch kaum beachtet hat. Gehandelt wird erst, wenn der gesellschaftliche Druck hoch genug ist: wenn auch der Nachbar nebenan mit dem Velo in die Stadt fährt und nicht mehr mit dem SUV, die Züge billiger werden als die Flüge. Wenn es Pfandflaschen auch in der Schweiz gibt, dann handeln wir vielleicht. Und aus diesem Grundgedanken entstand die Ausstellung mit dem provokanten Titel. 
 
-“Es ist der Versuch, eine nicht deprimierende Ausstellung zu einem sehr deprimierenden Thema zu machen.” wo andere vielleicht ihre Waffen niederlegen, fängt Simon Jäggi erst an.
-
-
+> “Es ist der Versuch, eine nicht deprimierende Ausstellung zu einem sehr deprimierenden Thema zu machen.” wo andere vielleicht ihre Waffen niederlegen, fängt Simon Jäggi erst an.
 
 ##### Journalist, Kurator oder Kummerbube
 
@@ -35,7 +33,7 @@ Simon Jäggi stellte die Ausstellung mit seinem Team auf die Beine. Es ist seine
 
 {{<box title="Ausklappbare Box">}}
 
-Simon Jäggi - Wie der Stein ins Rollen kam
+##### Simon Jäggi - Wie der Stein ins Rollen kam
 
 Gestartet hat er seine Karriere 2007 als Redaktor bei der Zeitung "Der Bund". 2013 wechselte er aus der Branche des Journalismus und wurde Leiter der Kommunikation & Marketing des NMBE. Zwei Jahre später fand er dann in den gleichen vier Wänden seine wahre Berufung und kombinierte sein Können: Das aktive, kunstvolle, bei dem er Fantasie braucht, aber eben auch die Recherchefähigkeiten von früher, er wurde Ausstellungskurator des NMBE. 
 
@@ -51,8 +49,6 @@ Durch die Digitalisierung hat sich die Art und Weise der Ausstellungsgestaltung 
 
 Was genau in den Räumen vor sich geht, sollte man am besten selbst erfahren und wir waren jetzt schon zu lange in der Zukunft, es wird Zeit in die Gegenwart zurückzukehren. Am Ende des grossen Raumes ist eine Treppe, über die wir mit jeder Stufe dem heutigen Datum näherkommen. Im obigen Teil der Ausstellung sind noch einige Insektenpräparate und Figuren ausgestellt. Hier finden auch Workshops für Schulklassen und andere Gruppen statt.
 
-
-
 ##### Graue Zeiten grüne Zukunft 
 
 Die Ausstellung gibt Hoffnung zu einem Thema, das eigentlich ziemlich grau ist. Das Bild der grauen Windschutzscheibe stammt noch aus einer Zeit, in der niemand an ein Insektensterben dachte. Man liest immer wieder, dass es zwischen 40’000 und 60’000 Insektenarten in der Schweiz für ein funktionierendes Ökosystem braucht. Doch mehr als 60% von ihnen sind gefährdet. Daran sollten wir dringend etwas ändern, denn so darf es nicht weitergehen. Dazu fordert uns die Ausstellung auf!
@@ -64,8 +60,6 @@ Das blosse Konsumieren von Fakten und Zahlen ist meist äusserst langweilig und 
 Museen sind ein Ort der Wissensvermittlung und -erfahrung. Im Museum können Interessen sei es für Dinosaurier, Fossilien, Pflanzen oder historische Gegenstände erlebbar werden, indem wir mit unseren Sinnen wahrnehmen, Informationen auf interessante und unterhaltsame Weise präsentiert bekommen. Das wir uns  die Zeit nehmen und uns für etwas begeistern, was wir schon immer kennenlernen wollten. Das wird für immer so bleiben, hoffentlich. 
 
 > **“Museen sind für die Ewigkeit” - Simon Jäggi**
-
-
 
 Die Sonderausstellung passt gut ins NMBE, an den Ort, an dem Jung und Alt zusammenkommen und sich der gemeinsamen Faszination für die Flora und Fauna unseres Planeten widmen.
 
