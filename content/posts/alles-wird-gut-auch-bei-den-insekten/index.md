@@ -1,5 +1,5 @@
 +++
-title = "\"Alles wird gut, auch bei den Insekten\""
+title = "\"Alles wird gut, auch bei den Insekten\" "
 date = "2024-02-26"
 draft = false
 pinned = false
@@ -17,7 +17,7 @@ Die Situation der Insekten in der Schweiz ist beängstigend. In den letzten drei
 
 ![Mitten in der Sonderausstellung der kleinen Tierchen: hier in gross. (Quelle: Der Bund-Ausstellung über Insektensterben)](dwfo5a72adfbppj8vicdtq.jpg.webp)
 
-Caruso, steht nicht schlecht auf dem Dach und das jetzt schon seit Herbst 2014. Der goldene Elefant auf dem hohen Dach des Museums wurde zu einer Art Markenzeichen. Er fällt auch immer noch auf, wenn man zum hundertsten Mal das Museum betritt. An der Fassade hängt ein riesiges graues Plakat, das eine von toten Insekten verschmierte Frontscheibe zeigt. “Insektensterben - Alles wird gut.” ist mit fetten gelben Buchstaben darauf geschrieben. 
+Caruso, steht nicht schlecht auf dem Dach und das jetzt schon seit Herbst 2014. Der goldene Elefant auf dem hohen Dach des Museums wurde zu einer Art Markenzeichen. Er fällt auch immer noch auf, wenn man zum hundertsten Mal das Museum betritt. An der Fassade hängt ein riesiges graues Plakat, das eine von toten Insekten verschmierte Windschutzscheibe zeigt. “Insektensterben - Alles wird gut.” ist mit fetten gelben Buchstaben darauf geschrieben. 
 
 Im obersten Stockwerk des Museums sitzt Simon Jäggi auf dem schwarzen Ledersofa des Pausenraums. Er trägt ein schwarzes Stoffhemd, seine Haare sind zu einem Vokuhila geschnitten, seine gestreiften Socken trägt er über den blauen Cargo Jeans. Er wirkt jung aber trotzdem sehr ernst, vielleicht ist es die Art, wie er dort sitzt und eine Mail verfasst oder ist es doch der scharfe Blick, der Respekt auslöst. Der Raum ist gross und nimmt einen aus der Museums-Atmosphäre heraus, es gibt eine kleine Küche, einen grossen Esstisch und dieses schwarze Ledersofa. 
 
