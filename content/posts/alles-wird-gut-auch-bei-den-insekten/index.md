@@ -15,7 +15,7 @@ Die Situation der Insekten in der Schweiz ist beängstigend. In den letzten drei
 \
 **Robert, Steven und Moritz**
 
-![](dwfo5a72adfbppj8vicdtq.jpg.webp "Mitten in der Sonderausstellung der kleinen Tierchen: hier in gross. (Quelle: Der Bund-Ausstellung über Insektensterben)")
+![Mitten in der Sonderausstellung der kleinen Tierchen: hier in gross. (Quelle: Der Bund-Ausstellung über Insektensterben)](dwfo5a72adfbppj8vicdtq.jpg.webp)
 
 Caruso, steht nicht schlecht auf dem Dach und das jetzt schon seit Herbst 2014. Der goldene Elefant auf dem hohen Dach des Museums wurde zu einer Art Markenzeichen. Er fällt auch immer noch auf, wenn man zum hundertsten Mal das Museum betritt. An der Fassade hängt ein riesiges graues Plakat, das eine von toten Insekten verschmierte Frontscheibe zeigt. “Insektensterben - Alles wird gut.” ist mit fetten gelben Buchstaben darauf geschrieben. 
 
@@ -41,7 +41,7 @@ Mit einem zweiten Bein stand er auf der Bühne. 2004 gründete er mit sechs Freu
 
 {{</box>}}
 
-![](nmbe_simon_jaeggi-217050.jpg "Simon Jäggi/Kurator – (Bild: NMBE)")
+![Simon Jäggi/Kurator – (Bild: NMBE)](nmbe_simon_jaeggi-217050.jpg)
 
 ##### Mitten in der Welt der kleinen Tierchen
 
