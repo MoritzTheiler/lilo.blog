@@ -43,8 +43,8 @@ Und gerade in der heutigen Zeit ist gute Recherchearbeit gefordert. Gutes Beispi
 
 Das Naturhistorische Museum Bern wurde 1832 gegründet. Somit ist es das älteste Museum Berns. Seit dem 4. Januar 1936 ist die Sammlung, die sich auf mehr als 6,5 Millionen Objekte und Präparate beläuft, an der Bernastrasse 15 untergebracht. Das bekannteste und älteste Ausstellungsstück ist der Bernhardiner Bergrettungshund Barry. Neben Barry gibt es noch den Schatz vom Planggenstock, ein Riesenkristall aus den Alpen. sowie die Sammlung Afrikanischer Tiere des Berner Grosswildjägers Bernhard von Wattenwyl. Das Naturhistorische Museum Bern ist eines der wichtigsten und grössten Naturkundemuseen der Schweiz.
 
-{{</box>}}\
-\
+{{</box>}}
+
 **Spielt das NMBE gezielt eine Altersgruppe an?** 
 
 Nein, das glaube ich nicht. Unser Museum hat ein sehr unspezifisches und heterogenes Publikum. NMBE ist als Institution mit seinen Veranstaltungen, wie kaum ein anderes Museum, sehr breit unterwegs. Daher kommen unterschiedliche Milieus sowohl Leute aus der Stadt, aber auch vom Land, alt und jung uns besuchen. 
@@ -89,6 +89,8 @@ Ja. Viele Objekte des NMBE kommen von afrikanischem Kontinent und konnten nur da
 Während der europäischen Kolonialisierung Afrikas haben die Europäischen Nationen sich gegenüber der einheimischen Kulturen rassistisch verhalten. Dazu kommt, dass viele Ausstellungsstücke von den Kolonialisten geraubt und in die Europäischen Museen gebracht wurden. Heute versuchen viele Museen, ihre Geschichte aufzuarbeiten und auf die Nachkommen der afrikanischen Kulturen zuzugehen.
 
 {{</box>}}
+
+
 
 **Wie sieht das Museum der Zukunft aus? Wo steht es?** 
 
